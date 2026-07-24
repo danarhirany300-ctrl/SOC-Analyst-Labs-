@@ -48,5 +48,6 @@ Microsoft Defender XDR centralizes endpoint telemetry, alerts, and investigation
 - Process Tree
 - ![Process Tree](./process-tree.png)
 - File Details
-- 
+- ![File Details](./file-details.png)
 - Network Activity
+- 
