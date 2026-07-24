@@ -46,5 +46,7 @@ Microsoft Defender XDR centralizes endpoint telemetry, alerts, and investigation
 - Device Timeline
 - ![Device Timeline](./device-timeline.png)
 - Process Tree
+- ![Process Tree](./process-tree.png)
 - File Details
+- 
 - Network Activity
