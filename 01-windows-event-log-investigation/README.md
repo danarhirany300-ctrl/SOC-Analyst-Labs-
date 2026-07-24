@@ -56,6 +56,7 @@ Windows Security Event Logs provide essential visibility into authentication, ac
 ## Screenshots
 
 - Event Viewer Security Log
+- (security-log.png
 - Event ID 4624
 - Event ID 4625
 - Event ID 4688 (if available)
