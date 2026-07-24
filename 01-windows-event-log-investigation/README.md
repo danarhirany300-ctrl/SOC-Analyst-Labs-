@@ -62,5 +62,5 @@ Windows Security Event Logs provide essential visibility into authentication, ac
 ![Event ID 4624](./event-4624.png)
 
 ### Event ID 4625
-![Event ID 4625](./event-4625.png)
+![Event ID 4625](./eventt-4625.png)
 
