@@ -50,4 +50,4 @@ Microsoft Defender XDR centralizes endpoint telemetry, alerts, and investigation
 - File Details
 - ![File Details](./file-details.png)
 - Network Activity
-- 
+- ![Network Activity](./network-activity.png)
