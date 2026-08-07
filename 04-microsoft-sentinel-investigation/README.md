@@ -64,10 +64,19 @@ Investigated a Sentinel alert involving suspicious PowerShell execution by ident
 
 Microsoft Sentinel enables centralized investigation of security events from multiple data sources. Combining KQL with incident and entity analysis allows analysts to efficiently detect, investigate, and respond to security threats.
 
-## Screenshots
+## ## Screenshots
 
-- Sentinel Dashboard
-- Incident Overview
-- Entities
-- KQL Query Results
-- Incident Closure
+### Sentinel Dashboard
+![Sentinel Dashboard](./sentinel-dashboard.png)
+
+### Incident Overview
+![Incident Overview](./incident-overview.png)
+
+### Entities
+![Entities](./entities.png)
+
+### KQL Query Results
+![KQL Query Results](./kql-query-results.png)
+
+### Incident Closure
+![Incident Closure](./incident-closure.png)
