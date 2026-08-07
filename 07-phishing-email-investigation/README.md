@@ -38,9 +38,20 @@ Effective phishing investigations require validating email authenticity, analyzi
 
 ## Screenshots
 
-- Email Overview
-- Email Headers
-- Authentication Results
-- URL Analysis
-- Attachment Details
-- Investigation Summary
+### Email Overview
+![Email Overview](./email-overview.png)
+
+### Email Headers
+![Email Headers](./email-headers.png)
+
+### Authentication Results
+![Authentication Results](./authentication-results.png)
+
+### URL Analysis
+![URL Analysis](./url-analysis.png)
+
+### Attachment Details
+![Attachment Details](./attachment-details.png)
+
+### Investigation Summary
+![Investigation Summary](./investigation-summary.png)
