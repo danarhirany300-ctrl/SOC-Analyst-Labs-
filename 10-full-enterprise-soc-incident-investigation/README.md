@@ -51,11 +51,26 @@ Effective SOC investigations require correlating evidence from multiple security
 
 ## Screenshots
 
-- Defender Alert
-- Incident Overview
-- Device Timeline
-- Process Tree
-- Sysmon Events
-- KQL Results
-- Network Investigation
-- Final Incident Report
+### Defender Alert
+![Defender Alert](./defender-alert.png)
+
+### Incident Overview
+![Incident Overview](./incident-overview.png)
+
+### Device Timeline
+![Device Timeline](./device-timeline.png)
+
+### Process Tree
+![Process Tree](./process-tree.png)
+
+### Sysmon Events
+![Sysmon Events](./sysmon-events.png)
+
+### KQL Results
+![KQL Results](./kql-results.png)
+
+### Network Investigation
+![Network Investigation](./network-investigation.png)
+
+### Final Incident Report
+![Final Incident Report](./final-incident-report.png)
