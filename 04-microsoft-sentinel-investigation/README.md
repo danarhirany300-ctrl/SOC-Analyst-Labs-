@@ -67,16 +67,5 @@ Microsoft Sentinel enables centralized investigation of security events from mul
 ## ## Screenshots
 
 ### Sentinel Dashboard
-![Sentinel Dashboard](sentinel-dashboard.png)
+![Sentinel Dashboard](./sentinel-dashboard.png)
 
-### Incident Overview
-![Incident Overview](./incident-overview.png)
-
-### Entities
-![Entities](./entities.png)
-
-### KQL Query Results
-![KQL Query Results](./kql-query-results.png)
-
-### Incident Closure
-![Incident Closure](./incident-closure.png)
