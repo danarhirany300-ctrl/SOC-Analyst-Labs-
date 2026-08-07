@@ -81,9 +81,20 @@ Threat hunting allows SOC analysts to identify malicious behavior before it esca
 
 ## Screenshots
 
-- PowerShell Hunt
-- Encoded PowerShell Hunt
-- Failed Logons
-- Public Network Connections
-- LOLBins Query
-- Threat Hunting Summary
+### PowerShell Hunt
+![PowerShell Hunt](./powershell-hunt.png)
+
+### Encoded PowerShell Hunt
+![Encoded PowerShell Hunt](./encoded-powershell-hunt.png)
+
+### Failed Logons
+![Failed Logons](./failed-logons.png)
+
+### Public Network Connections
+![Public Network Connections](./public-network-connections.png)
+
+### LOLBins Query
+![LOLBins Query](./lolbins-query.png)
+
+### Threat Hunting Summary
+![Threat Hunting Summary](./threat-hunting-summary.png)
