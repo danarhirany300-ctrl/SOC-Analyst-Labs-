@@ -51,9 +51,20 @@ PowerShell and persistence mechanisms are frequently abused by attackers. Unders
 
 ## Screenshots
 
-- PowerShell Event
-- Sysmon Process Details
-- Task Scheduler
-- Registry Run Keys
-- Startup Folder
-- Windows Services
+### PowerShell Event
+![PowerShell Event](./powershell-event.png)
+
+### Sysmon Process Details
+![Sysmon Process Details](./sysmon-process-details.png)
+
+### Task Scheduler
+![Task Scheduler](./task-scheduler.png)
+
+### Registry Run Keys
+![Registry Run Keys](./registry-run-keys.png)
+
+### Startup Folder
+![Startup Folder](./startup-folder.png)
+
+### Windows Services
+![Windows Services](./windows-services.png)
