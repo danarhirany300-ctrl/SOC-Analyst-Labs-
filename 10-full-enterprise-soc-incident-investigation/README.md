@@ -58,7 +58,7 @@ Effective SOC investigations require correlating evidence from multiple security
 ![Incident Overview](./incident-overview.png)
 
 ### Device Timeline
-![Device Timeline](./device-timeline.png)
+![Device Timeline](./Device-Timeline.png)
 
 ### Process Tree
 ![Process Tree](./process-tree.png)
