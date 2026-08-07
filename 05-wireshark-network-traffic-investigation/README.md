@@ -51,8 +51,18 @@ Wireshark provides detailed visibility into network communications, allowing ana
 
 ### DNS Traffic
 ![DNS Traffic](./dns-traffic.png)
-- TCP Handshake
-- TLS Traffic
-- ICMP Packets
-- TCP Stream
-- Packet Details
+
+### TCP Handshake
+![TCP Handshake](./tcp-handshake.png)
+
+### TLS Traffic
+![TLS Traffic](./tls-traffic.png)
+
+### ICMP Packets
+![ICMP Packets](./icmp-packets.png)
+
+### TCP Stream
+![TCP Stream](./tcp-stream.png)
+
+### Packet Details
+![Packet Details](./packet-details.png)
