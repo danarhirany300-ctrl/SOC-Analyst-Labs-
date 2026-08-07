@@ -49,7 +49,14 @@ Identity-based attacks often target user accounts and administrative privileges.
 
 ## Screenshots
 
-- Successful Logon (4624)
-- Special Privileges Assigned (4672)
-- User Account Created (4720)
-- Group Membership Change (4732)
+### Successful Logon (4624)
+![Successful Logon](./successful-logon-4624.png)
+
+### Special Privileges Assigned (4672)
+![Special Privileges Assigned](./special-privileges-assigned-4672.png)
+
+### User Account Created (4720)
+![User Account Created](./user-account-created-4720.png)
+
+### Group Membership Change (4732)
+![Group Membership Change](./group-membership-change-4732.png)
